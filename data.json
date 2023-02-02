@@ -1,0 +1,4 @@
+{
+  auditOnline:true,
+  xiaomi: { back: [{ index: 0, advertiser: "native", ad_ids: ['tt', 'tt2'] }] }
+}
